@@ -4,9 +4,96 @@
     <img alt="Banner" src=".assets/img/banner/banner_dark.svg">
 </picture>
 
+<p></p>
+<br>
 
-<br>
-<br>
+<p align="center">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/python_light.svg">
+        <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/python_dark.svg">
+        <img src=".assets/img/skill_badges/python_light.svg">
+    </picture> &nbsp;
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/c_light.svg">
+        <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/c_dark.svg">
+        <img src=".assets/img/skill_badges/c_light.svg">
+    </picture> &nbsp;
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/verilog_light.svg">
+        <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/verilog_dark.svg">
+        <img src=".assets/img/skill_badges/verilog_light.svg">
+    </picture> &nbsp;
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/javascript_light.svg">
+        <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/javascript_dark.svg">
+        <img src=".assets/img/skill_badges/javascript_light.svg">
+    </picture> &nbsp;
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/numpy_light.svg">
+        <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/numpy_dark.svg">
+        <img src=".assets/img/skill_badges/numpy_light.svg">
+    </picture> &nbsp;
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/scipy_light.svg">
+        <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/scipy_dark.svg">
+        <img src=".assets/img/skill_badges/scipy_light.svg">
+    </picture> &nbsp;
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/pandas_light.svg">
+        <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/pandas_dark.svg">
+        <img src=".assets/img/skill_badges/pandas_light.svg">
+    </picture> &nbsp;
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/tensorflow_light.svg">
+        <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/tensorflow_dark.svg">
+        <img src=".assets/img/skill_badges/tensorflow_light.svg">
+    </picture> &nbsp;
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/scikitlearn_light.svg">
+        <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/scikitlearn_dark.svg">
+        <img src=".assets/img/skill_badges/scikitlearn_light.svg">
+    </picture> &nbsp;
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/raspberrypi_light.svg">
+        <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/raspberrypi_dark.svg">
+        <img src=".assets/img/skill_badges/raspberrypi_light.svg">
+    </picture> &nbsp;
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/arduino_light.svg">
+        <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/arduino_dark.svg">
+        <img src=".assets/img/skill_badges/arduino_light.svg">
+    </picture> &nbsp;
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/ltspice_light.svg">
+        <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/ltspice_dark.svg">
+        <img src=".assets/img/skill_badges/ltspice_light.svg">
+    </picture> &nbsp;
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/logisim_light.svg">
+        <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/logisim_dark.svg">
+        <img src=".assets/img/skill_badges/logisim_light.svg">
+    </picture> &nbsp;
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/proteus_light.svg">
+        <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/proteus_dark.svg">
+        <img src=".assets/img/skill_badges/proteus_light.svg">
+    </picture> &nbsp;
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/vivado_light.svg">
+        <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/vivado_dark.svg">
+        <img src=".assets/img/skill_badges/vivado_light.svg">
+    </picture> &nbsp;
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/sublimetext_light.svg">
+        <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/sublimetext_dark.svg">
+        <img src=".assets/img/skill_badges/sublimetext_light.svg">
+    </picture> &nbsp;
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/qiskit_light.svg">
+        <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/qiskit_dark.svg">
+        <img src=".assets/img/skill_badges/qiskit_light.svg">
+    </picture> &nbsp;
+</p>
 
 ## Hello!
 
@@ -15,6 +102,105 @@ I'm a research scientist completing a PhD in Computational Biophysics at the Uni
 I am particularly interested in high-level programming in Python for data science and machine learning, as well as low-level engineering with FPGAs, microcontrollers, and custom analog–digital circuits.
 
 Feel free to reach out on Github or [by email](william.rochira@hotmail.co.uk) if you find any of these projects interesting or useful - I'd love to chat!
+
+
+<!-- TODO: GitHub Stats -->
+
+
+<br>
+
+## Featured Projects
+
+<table width="100%">
+    <tr>
+        <td width="33%" height="200" align="center">
+            <p></p>
+            <picture>
+                <source media="(prefers-color-scheme: dark)" srcset=".assets/img/project_icons/iris_light.svg">
+                <source media="(prefers-color-scheme: light)" srcset=".assets/img/project_icons/iris_dark.svg">
+                <img src=".assets/img/project_icons/iris_light.svg" width="100" alt="Iris Icon">
+            </picture>
+            <br>
+            <b>Iris<br>Validation</b>
+            <p></p>
+            <p>Interactive graphical validation tool for 3D protein models. Integrated into CCP4i2, used by structural biologists worldwide.</p>
+            <p></p>
+            <code>Python</code> <code>JavaScript</code> <code>Biophysics</code>
+        </td>
+        <td width="33%" height="200" align="center">
+            <p></p>
+            <picture>
+                <source media="(prefers-color-scheme: dark)" srcset=".assets/img/project_icons/analog_light.svg">
+                <source media="(prefers-color-scheme: light)" srcset=".assets/img/project_icons/analog_dark.svg">
+                <img src=".assets/img/project_icons/analog_light.svg" width="100" alt="Analog Computing Icon">
+            </picture>
+            <br>
+            <b>Analog Computing<br>Elements</b>
+            <p></p>
+            <p>Complete library of analog computing elements for LTspice with numerical, ideal, and real-component implementations.</p>
+            <p></p>
+            <code>LTspice</code> <code>Analog Computing</code>
+        </td>
+        <td width="33%" height="200" align="center">
+            <p></p>
+            <picture>
+                <source media="(prefers-color-scheme: dark)" srcset=".assets/img/project_icons/water_light.svg">
+                <source media="(prefers-color-scheme: light)" srcset=".assets/img/project_icons/water_dark.svg">
+                <img src=".assets/img/project_icons/water_light.svg" width="100" alt="MD Engine Icon">
+            </picture>
+            <br>
+            <b>Water MD<br>Engines</b>
+            <p></p>
+            <p>Custom MD simulation engines in Python and C, with tabulated force fields optimised for hardware acceleration.</p>
+            <p></p>
+            <code>Python</code> <code>C</code> <code>Molecular Dynamics</code>
+        </td>
+    </tr>
+    <tr>
+        <td width="33%" height="200" align="center">
+            <p></p>
+            <picture>
+                <source media="(prefers-color-scheme: dark)" srcset=".assets/img/project_icons/fpga_light.svg">
+                <source media="(prefers-color-scheme: light)" srcset=".assets/img/project_icons/fpga_dark.svg">
+                <img src=".assets/img/project_icons/fpga_light.svg" width="100" alt="FPGA Icon">
+            </picture>
+            <br>
+            <b>FPGA Float<br>Converters</b>
+            <p></p>
+            <p>IEEE-754 floating-point to fixed-point converters in Verilog, synthesised and tested on Xilinx FPGAs.</p>
+            <p></p>
+            <code>Verilog</code> <code>FPGA</code> <code>Xilinx</code>
+        </td>
+        <td width="33%" height="200" align="center">
+            <p></p>
+            <picture>
+                <source media="(prefers-color-scheme: dark)" srcset=".assets/img/project_icons/poker_light.svg">
+                <source media="(prefers-color-scheme: light)" srcset=".assets/img/project_icons/poker_dark.svg">
+                <img src=".assets/img/project_icons/poker_light.svg" width="100" alt="Poker Icon">
+            </picture>
+            <br>
+            <b>Poker Monte<br>Carlo Engine</b>
+            <p></p>
+            <p>High-performance probabilistic poker simulator with opponent modelling and optimal strategy calculation.</p>
+            <p></p>
+            <code>Python</code> <code>Monte Carlo</code> <code>AI/ML</code>
+        </td>
+        <td width="33%" height="200" align="center">
+            <p></p>
+            <picture>
+                <source media="(prefers-color-scheme: dark)" srcset=".assets/img/project_icons/pcb_light.svg">
+                <source media="(prefers-color-scheme: light)" srcset=".assets/img/project_icons/pcb_dark.svg">
+                <img src=".assets/img/project_icons/pcb_light.svg" width="100" alt="PCB Icon">
+            </picture>
+            <br>
+            <b>Custom<br>PCB Designs</b>
+            <p></p>
+            <p>Multi-layer PCB designs including RP2040 development boards and hybrid analog-digital computing modules.</p>
+            <p></p>
+            <code>KiCad</code> <code>PCB Design</code> <code>Embedded</code>
+        </td>
+    </tr>
+</table>
 
 
 <br>
@@ -175,7 +361,6 @@ Feel free to reach out on Github or [by email](william.rochira@hotmail.co.uk) if
     </picture> &nbsp;
 </p>
 
-
 <p align="center">
     <b>Other</b>
 </p>
@@ -241,105 +426,6 @@ Feel free to reach out on Github or [by email](william.rochira@hotmail.co.uk) if
         <img src=".assets/img/skill_badges/qiskit_light.svg">
     </picture> &nbsp;
 </p>
-
-
-<!-- TODO: GitHub Stats -->
-
-
-<br>
-
-## Featured Projects
-
-<table width="100%">
-    <tr>
-        <td width="33%" height="200" align="center">
-            <p></p>
-            <picture>
-                <source media="(prefers-color-scheme: dark)" srcset=".assets/img/project_icons/iris_light.svg">
-                <source media="(prefers-color-scheme: light)" srcset=".assets/img/project_icons/iris_dark.svg">
-                <img src=".assets/img/project_icons/iris_light.svg" width="100" alt="Iris Icon">
-            </picture>
-            <br>
-            <b>Iris<br>Validation</b>
-            <p></p>
-            <p>Interactive graphical validation tool for 3D protein models. Integrated into CCP4i2, used by structural biologists worldwide.</p>
-            <p></p>
-            <code>Python</code> <code>JavaScript</code> <code>Biophysics</code>
-        </td>
-        <td width="33%" height="200" align="center">
-            <p></p>
-            <picture>
-                <source media="(prefers-color-scheme: dark)" srcset=".assets/img/project_icons/analog_light.svg">
-                <source media="(prefers-color-scheme: light)" srcset=".assets/img/project_icons/analog_dark.svg">
-                <img src=".assets/img/project_icons/analog_light.svg" width="100" alt="Analog Computing Icon">
-            </picture>
-            <br>
-            <b>Analog Computing<br>Elements</b>
-            <p></p>
-            <p>Complete library of analog computing elements for LTspice with numerical, ideal, and real-component implementations.</p>
-            <p></p>
-            <code>LTspice</code> <code>Analog Computing</code>
-        </td>
-        <td width="33%" height="200" align="center">
-            <p></p>
-            <picture>
-                <source media="(prefers-color-scheme: dark)" srcset=".assets/img/project_icons/water_light.svg">
-                <source media="(prefers-color-scheme: light)" srcset=".assets/img/project_icons/water_dark.svg">
-                <img src=".assets/img/project_icons/water_light.svg" width="100" alt="MD Engine Icon">
-            </picture>
-            <br>
-            <b>Water MD<br>Engines</b>
-            <p></p>
-            <p>Custom MD simulation engines in Python and C, with tabulated force fields optimised for hardware acceleration.</p>
-            <p></p>
-            <code>Python</code> <code>C</code> <code>Molecular Dynamics</code>
-        </td>
-    </tr>
-    <tr>
-        <td width="33%" height="200" align="center">
-            <p></p>
-            <picture>
-                <source media="(prefers-color-scheme: dark)" srcset=".assets/img/project_icons/fpga_light.svg">
-                <source media="(prefers-color-scheme: light)" srcset=".assets/img/project_icons/fpga_dark.svg">
-                <img src=".assets/img/project_icons/fpga_light.svg" width="100" alt="FPGA Icon">
-            </picture>
-            <br>
-            <b>FPGA Float<br>Converters</b>
-            <p></p>
-            <p>IEEE-754 floating-point to fixed-point converters in Verilog, synthesised and tested on Xilinx FPGAs.</p>
-            <p></p>
-            <code>Verilog</code> <code>FPGA</code> <code>Xilinx</code>
-        </td>
-        <td width="33%" height="200" align="center">
-            <p></p>
-            <picture>
-                <source media="(prefers-color-scheme: dark)" srcset=".assets/img/project_icons/poker_light.svg">
-                <source media="(prefers-color-scheme: light)" srcset=".assets/img/project_icons/poker_dark.svg">
-                <img src=".assets/img/project_icons/poker_light.svg" width="100" alt="Poker Icon">
-            </picture>
-            <br>
-            <b>Poker Monte<br>Carlo Engine</b>
-            <p></p>
-            <p>High-performance probabilistic poker simulator with opponent modelling and optimal strategy calculation.</p>
-            <p></p>
-            <code>Python</code> <code>Monte Carlo</code> <code>AI/ML</code>
-        </td>
-        <td width="33%" height="200" align="center">
-            <p></p>
-            <picture>
-                <source media="(prefers-color-scheme: dark)" srcset=".assets/img/project_icons/pcb_light.svg">
-                <source media="(prefers-color-scheme: light)" srcset=".assets/img/project_icons/pcb_dark.svg">
-                <img src=".assets/img/project_icons/pcb_light.svg" width="100" alt="PCB Icon">
-            </picture>
-            <br>
-            <b>Custom<br>PCB Designs</b>
-            <p></p>
-            <p>Multi-layer PCB designs including RP2040 development boards and hybrid analog-digital computing modules.</p>
-            <p></p>
-            <code>KiCad</code> <code>PCB Design</code> <code>Embedded</code>
-        </td>
-    </tr>
-</table>
 
 
 <br>
