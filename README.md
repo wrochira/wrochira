@@ -5,8 +5,11 @@
 </picture>
 
 <p></p>
+<p></p>
 <br>
 
+<!-- TODO: if these are going to be included, make them look nice. -->
+<!--
 <p align="center">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/python_light.svg">
@@ -94,6 +97,7 @@
         <img src=".assets/img/skill_badges/qiskit_light.svg">
     </picture> &nbsp;
 </p>
+-->
 
 ## Hello!
 
@@ -109,323 +113,348 @@ Feel free to reach out on Github or [by email](william.rochira@hotmail.co.uk) if
 
 <br>
 
-## Featured Projects
+## Core Interests
 
 <table width="100%">
     <tr>
-        <td width="33%" height="200" align="center">
+        <td width="33%" align="center">
             <p></p>
-            <picture>
-                <source media="(prefers-color-scheme: dark)" srcset=".assets/img/project_icons/iris_light.svg">
-                <source media="(prefers-color-scheme: light)" srcset=".assets/img/project_icons/iris_dark.svg">
-                <img src=".assets/img/project_icons/iris_light.svg" width="100" alt="Iris Icon">
-            </picture>
+            <img src=".assets/img/project_icons/analog.svg" alt="Project Icon" width="120">
             <br>
-            <b>Iris<br>Validation</b>
-            <p></p>
-            <p>Interactive graphical validation tool for 3D protein models. Integrated into CCP4i2, used by structural biologists worldwide.</p>
-            <p></p>
-            <code>Python</code> <code>JavaScript</code> <code>Biophysics</code>
+            <b>Analog<br>Computing</b>
         </td>
-        <td width="33%" height="200" align="center">
+        <td width="33%" align="center">
             <p></p>
-            <picture>
-                <source media="(prefers-color-scheme: dark)" srcset=".assets/img/project_icons/analog_light.svg">
-                <source media="(prefers-color-scheme: light)" srcset=".assets/img/project_icons/analog_dark.svg">
-                <img src=".assets/img/project_icons/analog_light.svg" width="100" alt="Analog Computing Icon">
-            </picture>
+            <img src=".assets/img/project_icons/water.svg" alt="Project Icon" width="120">
             <br>
-            <b>Analog Computing<br>Elements</b>
-            <p></p>
-            <p>Complete library of analog computing elements for LTspice with numerical, ideal, and real-component implementations.</p>
-            <p></p>
-            <code>LTspice</code> <code>Analog Computing</code>
+            <b>Molecular<br>Dynamics</b>
         </td>
-        <td width="33%" height="200" align="center">
+        <td width="33%" align="center">
             <p></p>
-            <picture>
-                <source media="(prefers-color-scheme: dark)" srcset=".assets/img/project_icons/water_light.svg">
-                <source media="(prefers-color-scheme: light)" srcset=".assets/img/project_icons/water_dark.svg">
-                <img src=".assets/img/project_icons/water_light.svg" width="100" alt="MD Engine Icon">
-            </picture>
+            <img src=".assets/img/project_icons/fpga.svg" alt="Project Icon" width="120">
             <br>
-            <b>Water MD<br>Engines</b>
-            <p></p>
-            <p>Custom MD simulation engines in Python and C, with tabulated force fields optimised for hardware acceleration.</p>
-            <p></p>
-            <code>Python</code> <code>C</code> <code>Molecular Dynamics</code>
+            <b>FPGA<br>Engineering</b>
         </td>
     </tr>
     <tr>
-        <td width="33%" height="200" align="center">
+        <td width="33%" align="center">
             <p></p>
-            <picture>
-                <source media="(prefers-color-scheme: dark)" srcset=".assets/img/project_icons/fpga_light.svg">
-                <source media="(prefers-color-scheme: light)" srcset=".assets/img/project_icons/fpga_dark.svg">
-                <img src=".assets/img/project_icons/fpga_light.svg" width="100" alt="FPGA Icon">
-            </picture>
-            <br>
-            <b>FPGA Float<br>Converters</b>
-            <p></p>
-            <p>IEEE-754 floating-point to fixed-point converters in Verilog, synthesised and tested on Xilinx FPGAs.</p>
-            <p></p>
-            <code>Verilog</code> <code>FPGA</code> <code>Xilinx</code>
+            <p>Circuit design and simulation of analog computing architectures, including complete libraries of mathematical operators, hybrid analog-digital systems, and novel approaches to computational analogue techniques.</p>
         </td>
-        <td width="33%" height="200" align="center">
+        <td width="33%" align="center">
             <p></p>
-            <picture>
-                <source media="(prefers-color-scheme: dark)" srcset=".assets/img/project_icons/poker_light.svg">
-                <source media="(prefers-color-scheme: light)" srcset=".assets/img/project_icons/poker_dark.svg">
-                <img src=".assets/img/project_icons/poker_light.svg" width="100" alt="Poker Icon">
-            </picture>
-            <br>
-            <b>Poker Monte<br>Carlo Engine</b>
-            <p></p>
-            <p>High-performance probabilistic poker simulator with opponent modelling and optimal strategy calculation.</p>
-            <p></p>
-            <code>Python</code> <code>Monte Carlo</code> <code>AI/ML</code>
+            <p>Custom simulation engines and force field development in Python and C, with emphasis on hardware-accelerated implementations and novel computing architectures for biomolecular systems.</p>
         </td>
-        <td width="33%" height="200" align="center">
+        <td width="33%" align="center">
             <p></p>
-            <picture>
-                <source media="(prefers-color-scheme: dark)" srcset=".assets/img/project_icons/pcb_light.svg">
-                <source media="(prefers-color-scheme: light)" srcset=".assets/img/project_icons/pcb_dark.svg">
-                <img src=".assets/img/project_icons/pcb_light.svg" width="100" alt="PCB Icon">
-            </picture>
-            <br>
-            <b>Custom<br>PCB Designs</b>
+            <p>Digital design projects including floating-point arithmetic units, custom processing architectures, and synthesis-optimised implementations for Xilinx platforms.</p>
+        </td>
+    </tr>
+    <tr>
+        <td width="33%" align="center">
             <p></p>
-            <p>Multi-layer PCB designs including RP2040 development boards and hybrid analog-digital computing modules.</p>
+            <code>LTspice</code> <code>Circuit Design</code> <br> <code>Analog Signal Processing</code>
             <p></p>
-            <code>KiCad</code> <code>PCB Design</code> <code>Embedded</code>
+        </td>
+        <td width="33%" align="center">
+            <p></p>
+            <code>GROMACS</code> <code>C</code> <br> <code>Biophysics</code>
+            <p></p>
+        </td>
+        <td width="33%" align="center">
+            <p></p>
+            <code>Vivado</code> <code>Verilog</code> <br> <code>Digital Signal Processing</code>
+            <p></p>
         </td>
     </tr>
 </table>
 
+<table width="100%">
+    <tr>
+        <td width="33%" align="center">
+            <p></p>
+            <img src=".assets/img/project_icons/poker.svg" alt="Project Icon" width="120">
+            <br>
+            <b>Poker<br>Engines</b>
+        </td>
+        <td width="33%" align="center">
+            <p></p>
+            <img src=".assets/img/project_icons/pcb.svg" alt="Project Icon" width="120">
+            <br>
+            <b>PCBs &<br>Microcontrollers</b>
+        </td>
+        <td width="33%" align="center">
+            <p></p>
+            <img src=".assets/img/project_icons/iris.svg" alt="Project Icon" width="120">
+            <br>
+            <b>Iris<br>Validation</b>
+        </td>
+    </tr>
+    <tr>
+        <td width="33%" align="center">
+            <p></p>
+            <p>Probabilistic game theory implementations featuring Monte Carlo simulations, opponent modelling systems, and optimal strategy calculators for Texas Hold'em variants.</p>
+        </td>
+        <td width="33%" align="center">
+            <p></p>
+            <p>Hardware design projects spanning multi-layer PCBs, embedded systems development, and integration of analog-digital hybrid architectures using RP2040, ESP32, and custom silicon.</p>
+        </td>
+        <td width="33%" align="center">
+            <p></p>
+            <p>Interactive graphical validation toolkit for 3D macromolecular models, integrated into the CCP4i2 crystallography suite and used by structural biologists worldwide.</p>
+        </td>
+    </tr>
+    <tr>
+        <td width="33%" align="center">
+            <p></p>
+            <code>NumPy</code> <code>Game Theory</code> <br> <code>Monte Carlo</code>
+            <p></p>
+        </td>
+        <td width="33%" align="center">
+            <p></p>
+            <code>KiCad</code> <code>RP2040</code> <br> <code>Embedded C</code>
+            <p></p>
+        </td>
+        <td width="33%" align="center">
+            <p></p>
+            <code>Python</code> <code>JavaScript</code> <br> <code>Structural Biology</code>
+            <p></p>
+        </td>
+    </tr>
+</table>
 
 <br>
 
 ## Skills
 
-<p align="center">
-    <b>Languages</b>
-</p>
-<p align="center">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/python_light.svg">
-        <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/python_dark.svg">
-        <img src=".assets/img/skill_badges/python_light.svg">
-    </picture> &nbsp;
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/c_light.svg">
-        <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/c_dark.svg">
-        <img src=".assets/img/skill_badges/c_light.svg">
-    </picture> &nbsp;
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/verilog_light.svg">
-        <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/verilog_dark.svg">
-        <img src=".assets/img/skill_badges/verilog_light.svg">
-    </picture> &nbsp;
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/php_light.svg">
-        <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/php_dark.svg">
-        <img src=".assets/img/skill_badges/php_light.svg">
-    </picture> &nbsp;
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/javascript_light.svg">
-        <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/javascript_dark.svg">
-        <img src=".assets/img/skill_badges/javascript_light.svg">
-    </picture> &nbsp;
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/mysql_light.svg">
-        <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/mysql_dark.svg">
-        <img src=".assets/img/skill_badges/mysql_light.svg">
-    </picture> &nbsp;
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/gnubash_light.svg">
-        <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/gnubash_dark.svg">
-        <img src=".assets/img/skill_badges/gnubash_light.svg">
-    </picture> &nbsp;
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/java_light.svg">
-        <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/java_dark.svg">
-        <img src=".assets/img/skill_badges/java_light.svg">
-    </picture> &nbsp;
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/cplusplus_light.svg">
-        <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/cplusplus_dark.svg">
-        <img src=".assets/img/skill_badges/cplusplus_light.svg">
-    </picture> &nbsp;
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/dotnet_light.svg">
-        <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/dotnet_dark.svg">
-        <img src=".assets/img/skill_badges/dotnet_light.svg">
-    </picture> &nbsp;
-</p>
+<!-- TODO:
+- Add some colour
+- Emphasise the top skills
+-->
 
-<p align="center">
-    <b>Data Science and ML</b>
-</p>
-<p align="center">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/numpy_light.svg">
-        <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/numpy_dark.svg">
-        <img src=".assets/img/skill_badges/numpy_light.svg">
-    </picture> &nbsp;
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/scipy_light.svg">
-        <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/scipy_dark.svg">
-        <img src=".assets/img/skill_badges/scipy_light.svg">
-    </picture> &nbsp;
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/pandas_light.svg">
-        <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/pandas_dark.svg">
-        <img src=".assets/img/skill_badges/pandas_light.svg">
-    </picture> &nbsp;
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/matplotlib_light.svg">
-        <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/matplotlib_dark.svg">
-        <img src=".assets/img/skill_badges/matplotlib_light.svg">
-    </picture> &nbsp;
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/tensorflow_light.svg">
-        <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/tensorflow_dark.svg">
-        <img src=".assets/img/skill_badges/tensorflow_light.svg">
-    </picture> &nbsp;
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/keras_light.svg">
-        <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/keras_dark.svg">
-        <img src=".assets/img/skill_badges/keras_light.svg">
-    </picture> &nbsp;
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/scikitlearn_light.svg">
-        <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/scikitlearn_dark.svg">
-        <img src=".assets/img/skill_badges/scikitlearn_light.svg">
-    </picture> &nbsp;
-</p>
+<details>
+    <summary><strong>Languages</strong></summary>
+    <p></p>
+    <p align="center">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/python_light.svg">
+            <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/python_dark.svg">
+            <img src=".assets/img/skill_badges/python_light.svg">
+        </picture> &nbsp;
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/c_light.svg">
+            <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/c_dark.svg">
+            <img src=".assets/img/skill_badges/c_light.svg">
+        </picture> &nbsp;
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/verilog_light.svg">
+            <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/verilog_dark.svg">
+            <img src=".assets/img/skill_badges/verilog_light.svg">
+        </picture> &nbsp;
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/php_light.svg">
+            <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/php_dark.svg">
+            <img src=".assets/img/skill_badges/php_light.svg">
+        </picture> &nbsp;
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/javascript_light.svg">
+            <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/javascript_dark.svg">
+            <img src=".assets/img/skill_badges/javascript_light.svg">
+        </picture> &nbsp;
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/mysql_light.svg">
+            <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/mysql_dark.svg">
+            <img src=".assets/img/skill_badges/mysql_light.svg">
+        </picture> &nbsp;
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/gnubash_light.svg">
+            <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/gnubash_dark.svg">
+            <img src=".assets/img/skill_badges/gnubash_light.svg">
+        </picture> &nbsp;
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/java_light.svg">
+            <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/java_dark.svg">
+            <img src=".assets/img/skill_badges/java_light.svg">
+        </picture> &nbsp;
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/cplusplus_light.svg">
+            <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/cplusplus_dark.svg">
+            <img src=".assets/img/skill_badges/cplusplus_light.svg">
+        </picture> &nbsp;
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/dotnet_light.svg">
+            <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/dotnet_dark.svg">
+            <img src=".assets/img/skill_badges/dotnet_light.svg">
+        </picture> &nbsp;
+    </p>
+</details>
+
+<details>
+    <summary><strong>Data Science and ML</strong></summary>
+    <p></p>
+    <p align="center">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/numpy_light.svg">
+            <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/numpy_dark.svg">
+            <img src=".assets/img/skill_badges/numpy_light.svg">
+        </picture> &nbsp;
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/scipy_light.svg">
+            <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/scipy_dark.svg">
+            <img src=".assets/img/skill_badges/scipy_light.svg">
+        </picture> &nbsp;
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/pandas_light.svg">
+            <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/pandas_dark.svg">
+            <img src=".assets/img/skill_badges/pandas_light.svg">
+        </picture> &nbsp;
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/matplotlib_light.svg">
+            <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/matplotlib_dark.svg">
+            <img src=".assets/img/skill_badges/matplotlib_light.svg">
+        </picture> &nbsp;
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/tensorflow_light.svg">
+            <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/tensorflow_dark.svg">
+            <img src=".assets/img/skill_badges/tensorflow_light.svg">
+        </picture> &nbsp;
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/keras_light.svg">
+            <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/keras_dark.svg">
+            <img src=".assets/img/skill_badges/keras_light.svg">
+        </picture> &nbsp;
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/scikitlearn_light.svg">
+            <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/scikitlearn_dark.svg">
+            <img src=".assets/img/skill_badges/scikitlearn_light.svg">
+        </picture> &nbsp;
+    </p>
+</details>
 
 
-<p align="center">
-    <b>Electronic Engineering</b>
-</p>
-<p align="center">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/raspberrypi_light.svg">
-        <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/raspberrypi_dark.svg">
-        <img src=".assets/img/skill_badges/raspberrypi_light.svg">
-    </picture> &nbsp;
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/arduino_light.svg">
-        <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/arduino_dark.svg">
-        <img src=".assets/img/skill_badges/arduino_light.svg">
-    </picture> &nbsp;
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/espressif_light.svg">
-        <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/espressif_dark.svg">
-        <img src=".assets/img/skill_badges/espressif_light.svg">
-    </picture> &nbsp;
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/xilinx_light.svg">
-        <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/xilinx_dark.svg">
-        <img src=".assets/img/skill_badges/xilinx_light.svg">
-    </picture> &nbsp;
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/ltspice_light.svg">
-        <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/ltspice_dark.svg">
-        <img src=".assets/img/skill_badges/ltspice_light.svg">
-    </picture> &nbsp;
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/logisim_light.svg">
-        <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/logisim_dark.svg">
-        <img src=".assets/img/skill_badges/logisim_light.svg">
-    </picture> &nbsp;
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/proteus_light.svg">
-        <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/proteus_dark.svg">
-        <img src=".assets/img/skill_badges/proteus_light.svg">
-    </picture> &nbsp;
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/tina_light.svg">
-        <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/tina_dark.svg">
-        <img src=".assets/img/skill_badges/tina_light.svg">
-    </picture> &nbsp;
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/kicad_light.svg">
-        <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/kicad_dark.svg">
-        <img src=".assets/img/skill_badges/kicad_light.svg">
-    </picture> &nbsp;
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/vivado_light.svg">
-        <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/vivado_dark.svg">
-        <img src=".assets/img/skill_badges/vivado_light.svg">
-    </picture> &nbsp;
-</p>
+<details>
+    <summary><strong>Electronic Engineering</strong></summary>
+    <p></p>
+    <p align="center">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/raspberrypi_light.svg">
+            <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/raspberrypi_dark.svg">
+            <img src=".assets/img/skill_badges/raspberrypi_light.svg">
+        </picture> &nbsp;
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/arduino_light.svg">
+            <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/arduino_dark.svg">
+            <img src=".assets/img/skill_badges/arduino_light.svg">
+        </picture> &nbsp;
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/espressif_light.svg">
+            <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/espressif_dark.svg">
+            <img src=".assets/img/skill_badges/espressif_light.svg">
+        </picture> &nbsp;
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/xilinx_light.svg">
+            <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/xilinx_dark.svg">
+            <img src=".assets/img/skill_badges/xilinx_light.svg">
+        </picture> &nbsp;
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/ltspice_light.svg">
+            <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/ltspice_dark.svg">
+            <img src=".assets/img/skill_badges/ltspice_light.svg">
+        </picture> &nbsp;
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/logisim_light.svg">
+            <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/logisim_dark.svg">
+            <img src=".assets/img/skill_badges/logisim_light.svg">
+        </picture> &nbsp;
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/proteus_light.svg">
+            <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/proteus_dark.svg">
+            <img src=".assets/img/skill_badges/proteus_light.svg">
+        </picture> &nbsp;
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/tina_light.svg">
+            <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/tina_dark.svg">
+            <img src=".assets/img/skill_badges/tina_light.svg">
+        </picture> &nbsp;
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/kicad_light.svg">
+            <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/kicad_dark.svg">
+            <img src=".assets/img/skill_badges/kicad_light.svg">
+        </picture> &nbsp;
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/vivado_light.svg">
+            <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/vivado_dark.svg">
+            <img src=".assets/img/skill_badges/vivado_light.svg">
+        </picture> &nbsp;
+    </p>
+</details>
 
-<p align="center">
-    <b>Other</b>
-</p>
-<p align="center">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/sublimetext_light.svg">
-        <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/sublimetext_dark.svg">
-        <img src=".assets/img/skill_badges/sublimetext_light.svg">
-    </picture> &nbsp;
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/vscode_light.svg">
-        <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/vscode_dark.svg">
-        <img src=".assets/img/skill_badges/vscode_light.svg">
-    </picture> &nbsp;
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/blender_light.svg">
-        <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/blender_dark.svg">
-        <img src=".assets/img/skill_badges/blender_light.svg">
-    </picture> &nbsp;
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/photoshop_light.svg">
-        <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/photoshop_dark.svg">
-        <img src=".assets/img/skill_badges/photoshop_light.svg">
-    </picture> &nbsp;
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/illustrator_light.svg">
-        <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/illustrator_dark.svg">
-        <img src=".assets/img/skill_badges/illustrator_light.svg">
-    </picture> &nbsp;
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/git_light.svg">
-        <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/git_dark.svg">
-        <img src=".assets/img/skill_badges/git_light.svg">
-    </picture> &nbsp;
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/slurm_light.svg">
-        <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/slurm_dark.svg">
-        <img src=".assets/img/skill_badges/slurm_light.svg">
-    </picture> &nbsp;
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/gromacs_light.svg">
-        <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/gromacs_dark.svg">
-        <img src=".assets/img/skill_badges/gromacs_light.svg">
-    </picture> &nbsp;
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/mdanalysis_light.svg">
-        <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/mdanalysis_dark.svg">
-        <img src=".assets/img/skill_badges/mdanalysis_light.svg">
-    </picture> &nbsp;
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/ccp4_light.svg">
-        <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/ccp4_dark.svg">
-        <img src=".assets/img/skill_badges/ccp4_light.svg">
-    </picture> &nbsp;
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/pymol_light.svg">
-        <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/pymol_dark.svg">
-        <img src=".assets/img/skill_badges/pymol_light.svg">
-    </picture> &nbsp;
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/qiskit_light.svg">
-        <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/qiskit_dark.svg">
-        <img src=".assets/img/skill_badges/qiskit_light.svg">
-    </picture> &nbsp;
-</p>
+<details>
+    <summary><strong>Other</strong></summary>
+    <p></p>
+    <p align="center">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/sublimetext_light.svg">
+            <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/sublimetext_dark.svg">
+            <img src=".assets/img/skill_badges/sublimetext_light.svg">
+        </picture> &nbsp;
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/vscode_light.svg">
+            <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/vscode_dark.svg">
+            <img src=".assets/img/skill_badges/vscode_light.svg">
+        </picture> &nbsp;
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/blender_light.svg">
+            <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/blender_dark.svg">
+            <img src=".assets/img/skill_badges/blender_light.svg">
+        </picture> &nbsp;
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/photoshop_light.svg">
+            <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/photoshop_dark.svg">
+            <img src=".assets/img/skill_badges/photoshop_light.svg">
+        </picture> &nbsp;
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/illustrator_light.svg">
+            <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/illustrator_dark.svg">
+            <img src=".assets/img/skill_badges/illustrator_light.svg">
+        </picture> &nbsp;
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/git_light.svg">
+            <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/git_dark.svg">
+            <img src=".assets/img/skill_badges/git_light.svg">
+        </picture> &nbsp;
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/slurm_light.svg">
+            <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/slurm_dark.svg">
+            <img src=".assets/img/skill_badges/slurm_light.svg">
+        </picture> &nbsp;
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/gromacs_light.svg">
+            <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/gromacs_dark.svg">
+            <img src=".assets/img/skill_badges/gromacs_light.svg">
+        </picture> &nbsp;
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/mdanalysis_light.svg">
+            <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/mdanalysis_dark.svg">
+            <img src=".assets/img/skill_badges/mdanalysis_light.svg">
+        </picture> &nbsp;
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/ccp4_light.svg">
+            <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/ccp4_dark.svg">
+            <img src=".assets/img/skill_badges/ccp4_light.svg">
+        </picture> &nbsp;
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/pymol_light.svg">
+            <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/pymol_dark.svg">
+            <img src=".assets/img/skill_badges/pymol_light.svg">
+        </picture> &nbsp;
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset=".assets/img/skill_badges/qiskit_light.svg">
+            <source media="(prefers-color-scheme: light)" srcset=".assets/img/skill_badges/qiskit_dark.svg">
+            <img src=".assets/img/skill_badges/qiskit_light.svg">
+        </picture> &nbsp;
+    </p>
+</details>
 
 
 <br>
