@@ -491,4 +491,4 @@ I'm currently open to freelancing opportunities or full-time positions, particul
 
 I'd be delighted to discuss relevant opportunities or collaborations.
 
-<h3><a href=".assets/pdf/William%20Rochira%20CV%202026-01-09.pdf">Download my CV</a></h3>
+<h3><a href=".assets/pdf/William%20Rochira%20CV%202026-01-12.pdf">Download my CV</a></h3>
